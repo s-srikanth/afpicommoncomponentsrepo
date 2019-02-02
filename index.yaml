@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  afpi-commoncomponents:
+  - apiVersion: extensions/v1beta1
+    appVersion: "1.0"
+    created: 2019-02-01T18:48:05.440009999-05:00
+    description: Helm chart for using Common Components built on IBM App Connect Enterprise
+      for deploying on any Cloud
+    digest: 27b554fac7a27756adb9694d85df57ea970caa7e884551de328177e86b94a6a9
+    name: afpi-commoncomponents
+    urls:
+    - afpi-commoncomponents-1.0.tgz
+    version: "1"
+generated: 2019-02-01T18:48:05.439563284-05:00
